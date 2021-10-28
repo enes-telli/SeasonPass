@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 11b06a43b36eb41f7846c482e27a6255
+timeCreated: 1570014069
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: con-rod_L
+    100002: con-rod_R
+    100004: drive-rod_BL
+    100006: drive-rod_BR
+    100008: drive-rod_FL
+    100010: drive-rod_FR
+    100012: locomotive-bell-western
+    100014: locomotive-western
+    100016: //RootNode
+    100018: locomotive-western-base
+    100020: locomotive-wheel1
+    100022: locomotive-wheel2
+    100024: locomotive-wheel3
+    100026: locomotive-wheel4
+    400000: con-rod_L
+    400002: con-rod_R
+    400004: drive-rod_BL
+    400006: drive-rod_BR
+    400008: drive-rod_FL
+    400010: drive-rod_FR
+    400012: locomotive-bell-western
+    400014: locomotive-western
+    400016: //RootNode
+    400018: locomotive-western-base
+    400020: locomotive-wheel1
+    400022: locomotive-wheel2
+    400024: locomotive-wheel3
+    400026: locomotive-wheel4
+    2300000: con-rod_L
+    2300002: con-rod_R
+    2300004: drive-rod_BL
+    2300006: drive-rod_BR
+    2300008: drive-rod_FL
+    2300010: drive-rod_FR
+    2300012: locomotive-bell-western
+    2300014: locomotive-western-base
+    2300016: locomotive-wheel1
+    2300018: locomotive-wheel2
+    2300020: locomotive-wheel3
+    2300022: locomotive-wheel4
+    3300000: con-rod_L
+    3300002: con-rod_R
+    3300004: drive-rod_BL
+    3300006: drive-rod_BR
+    3300008: drive-rod_FL
+    3300010: drive-rod_FR
+    3300012: locomotive-bell-western
+    3300014: locomotive-western-base
+    3300016: locomotive-wheel1
+    3300018: locomotive-wheel2
+    3300020: locomotive-wheel3
+    3300022: locomotive-wheel4
+    4300000: locomotive-bell-western
+    4300002: locomotive-wheel4
+    4300004: locomotive-western-base
+    4300006: drive-rod_BL
+    4300008: locomotive-wheel3
+    4300010: locomotive-wheel2
+    4300012: locomotive-wheel1
+    4300014: con-rod_L
+    4300016: drive-rod_FL
+    4300018: con-rod_R
+    4300020: drive-rod_BR
+    4300022: drive-rod_FR
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

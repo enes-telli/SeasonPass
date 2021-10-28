@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 4e0b1ae38a8424900a4328ebdd6fda58
+timeCreated: 1572106809
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bus-base
+    100004: bus-equipment
+    100006: bus-wheel_BL
+    100008: bus-wheel_BR
+    100010: bus-wheel_FL
+    100012: bus-wheel_FR
+    100014: bus-school-base
+    100016: bus-school-equipment
+    100018: bus-school-wheel_BL
+    100020: bus-school-wheel_BR
+    100022: bus-school-wheel_FL
+    100024: bus-school-wheel_FR
+    100026: bus-school
+    100028: Cube
+    400000: //RootNode
+    400002: bus-base
+    400004: bus-equipment
+    400006: bus-wheel_BL
+    400008: bus-wheel_BR
+    400010: bus-wheel_FL
+    400012: bus-wheel_FR
+    400014: bus-school-base
+    400016: bus-school-equipment
+    400018: bus-school-wheel_BL
+    400020: bus-school-wheel_BR
+    400022: bus-school-wheel_FL
+    400024: bus-school-wheel_FR
+    400026: bus-school
+    400028: Cube
+    2300000: bus-base
+    2300002: bus-equipment
+    2300004: bus-wheel_BL
+    2300006: bus-wheel_BR
+    2300008: bus-wheel_FL
+    2300010: bus-wheel_FR
+    2300012: bus-school-base
+    2300014: bus-school-equipment
+    2300016: bus-school-wheel_BL
+    2300018: bus-school-wheel_BR
+    2300020: bus-school-wheel_FL
+    2300022: bus-school-wheel_FR
+    2300024: Cube
+    3300000: bus-base
+    3300002: bus-equipment
+    3300004: bus-wheel_BL
+    3300006: bus-wheel_BR
+    3300008: bus-wheel_FL
+    3300010: bus-wheel_FR
+    3300012: bus-school-base
+    3300014: bus-school-equipment
+    3300016: bus-school-wheel_BL
+    3300018: bus-school-wheel_BR
+    3300020: bus-school-wheel_FL
+    3300022: bus-school-wheel_FR
+    3300024: Cube
+    4300000: bus-wheel_BR
+    4300002: bus-wheel_FR
+    4300004: bus-wheel_FL
+    4300006: bus-equipment
+    4300008: bus-wheel_BL
+    4300010: bus-base
+    4300012: bus-school-wheel_BR
+    4300014: bus-school-wheel_FR
+    4300016: bus-school-wheel_FL
+    4300018: bus-school-equipment
+    4300020: bus-school-wheel_BL
+    4300022: bus-school-base
+    4300024: Cube
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

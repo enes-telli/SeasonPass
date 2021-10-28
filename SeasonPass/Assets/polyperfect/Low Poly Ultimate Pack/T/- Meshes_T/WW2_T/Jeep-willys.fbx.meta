@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 0b29a566bacc045a4ad4f54f39bb40d9
+timeCreated: 1522774387
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.003
+    100004: Jeep-willys
+    100006: //RootNode
+    100008: willys-wheelBackLeft
+    100010: willys-wheelBackRight
+    100012: willys-wheelFrontLeft
+    100014: willys-wheelFrontRight
+    100016: willys-wheelBackLeft_T
+    100018: willys-wheelBackRight_T
+    100020: willys-wheelFrontLeft_T
+    100022: willys-wheelFrontRight_T
+    100024: Jeep-willys-base
+    100026: willys-wheel_BL
+    100028: willys-wheel_BR
+    100030: willys-wheel_FL
+    100032: willys-wheel_FR
+    400000: Cube
+    400002: Cube.003
+    400004: Jeep-willys
+    400006: //RootNode
+    400008: willys-wheelBackLeft
+    400010: willys-wheelBackRight
+    400012: willys-wheelFrontLeft
+    400014: willys-wheelFrontRight
+    400016: willys-wheelBackLeft_T
+    400018: willys-wheelBackRight_T
+    400020: willys-wheelFrontLeft_T
+    400022: willys-wheelFrontRight_T
+    400024: Jeep-willys-base
+    400026: willys-wheel_BL
+    400028: willys-wheel_BR
+    400030: willys-wheel_FL
+    400032: willys-wheel_FR
+    2300000: Cube
+    2300002: Cube.003
+    2300004: Jeep-willys
+    2300006: willys-wheelBackLeft
+    2300008: willys-wheelBackRight
+    2300010: willys-wheelFrontLeft
+    2300012: willys-wheelFrontRight
+    2300014: //RootNode
+    2300016: willys-wheelBackLeft_T
+    2300018: willys-wheelBackRight_T
+    2300020: willys-wheelFrontLeft_T
+    2300022: willys-wheelFrontRight_T
+    2300024: Jeep-willys-base
+    2300026: willys-wheel_BL
+    2300028: willys-wheel_BR
+    2300030: willys-wheel_FL
+    2300032: willys-wheel_FR
+    3300000: Cube
+    3300002: Cube.003
+    3300004: Jeep-willys
+    3300006: willys-wheelBackLeft
+    3300008: willys-wheelBackRight
+    3300010: willys-wheelFrontLeft
+    3300012: willys-wheelFrontRight
+    3300014: //RootNode
+    3300016: willys-wheelBackLeft_T
+    3300018: willys-wheelBackRight_T
+    3300020: willys-wheelFrontLeft_T
+    3300022: willys-wheelFrontRight_T
+    3300024: Jeep-willys-base
+    3300026: willys-wheel_BL
+    3300028: willys-wheel_BR
+    3300030: willys-wheel_FL
+    3300032: willys-wheel_FR
+    4300000: Cube.003
+    4300002: Jeep-willys
+    4300004: willys-wheelBackRight
+    4300006: willys-wheelBackLeft
+    4300008: willys-wheelFrontRight
+    4300010: willys-wheelFrontLeft
+    4300012: Cube
+    4300014: Jeep-willys_T
+    4300016: willys-wheelFrontRight_T
+    4300018: willys-wheelBackRight_T
+    4300020: willys-wheelFrontLeft_T
+    4300022: willys-wheelBackLeft_T
+    4300024: Jeep-willys-base
+    4300026: willys-wheel_FR
+    4300028: willys-wheel_BR
+    4300030: willys-wheel_FL
+    4300032: willys-wheel_BL
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
